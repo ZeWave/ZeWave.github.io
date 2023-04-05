@@ -1,4 +1,4 @@
-# The Wave Repository addon
+# The Wave addon Repository
 ## Current Version: 0.0.1
 
 Instructions for adding this repo:
