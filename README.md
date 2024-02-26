@@ -1,4 +1,4 @@
-# The Wave Rep
+# The Wave Repo
 ## Current Version: 0.0.1
 
 Instructions for adding this repo:
