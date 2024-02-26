@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Apdated in 18 July 2023 -->
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>01 Kodi Home Folder</name>
+            <path pathversion="1">special://home/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>a4k-openproject (a4kSubtitles)</name>
+            <path pathversion="1">https://a4k-openproject.github.io/a4kSubtitles/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Arxtic-ape (Apex Sports)</name>
+            <path pathversion="1">https://arxtic-ape.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Bugatsinho (SportHD)</name>
+            <path pathversion="1">https://bugatsinho.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Burekas</name>
+            <path pathversion="1">https://burekaskodi.github.io/repository.burekasKodi/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>cMaN (TvOne, Wizz RD, Builds)</name>
+            <path pathversion="1">http://cmanbuilds.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>CocoScrapers</name>
+            <path pathversion="1">https://cocojoe2411.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Cywteow (DramaCool)</name>
+            <path pathversion="1">https://cywteow.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Diamond (Free Live TV)</name>
+            <path pathversion="1">http://diamondbuild.xyz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Diggz Repo (Builds)</name>
+            <path pathversion="1">https://diggz1.me/diggzrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Dobbelina (Cumination)</name>
+            <path pathversion="1">https://dobbelina.github.io</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Doomzday (Fetch)</name>
+            <path pathversion="1">https://doomzdayteam.github.io/doomzday/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Drinfernoo’s (AutoWidget)</name>
+            <path pathversion="1">https://drinfernoo.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Ezra RD Kodi 19 Addon</name>
+            <path pathversion="1">https://ezra-hubbard.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Ezzer-Mac (M.E.T.V RD)</name>
+            <path pathversion="1">https://ezzer-mac.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>FDJ.HD</name>
+            <path pathversion="1">https://alivegr.net/master/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Fishenzon (Idan+ Plus)</name>
+            <path pathversion="1">https://fishenzon.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Funsters Place (Builds)</name>
+            <path pathversion="1">https://funstersplace.net/funs/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>GigaRepo (All-Subs-Flash)</name>
+            <path pathversion="1">https://github.com/gigarepo/addons/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Goldenfreddy0703 (Otaku)</name>
+            <path pathversion="1">https://goldenfreddy0703.github.io/repository.otaku/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Grindhouse (9 Lives RD)</name>
+            <path pathversion="1">http://grindhousekodi.us/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Gsource (Crackle)</name>
+            <path pathversion="1">https://mrgsi.github.io/gsource/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Gujal (ResolveURL)</name>
+            <path pathversion="1">https://Gujal00.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>ivarbrandt (FENtastic Skin)</name>
+            <path pathversion="1">https://ivarbrandt.github.io/repository.ivarbrandt/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>JewBMX (ScrubsV2 RD, Json IPTV)</name>
+            <path pathversion="1">https://jewbmx.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>JurialMunkey (TheMovieDB-Helper)</name>
+            <path pathversion="1">https://jurialmunkey.github.io/repository.jurialmunkey/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Kodi+RD Repo (Twilight)</name>
+            <path pathversion="1">https://kodi7rd.github.io/repository/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Kodi+RD Wizard</name>
+            <path pathversion="1">https://kodi7rd.github.io/wizard/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Kodi Fitz Well (afFENity Fen clone/fork, Dradis RD)</name>
+            <path pathversion="1">https://kodifitzwell.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Lanik-Python 3 (Kcleaner)</name>
+            <path pathversion="1">https://jewbmx.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>M3 at P1zza (INSOMNIA RD)</name>
+            <path pathversion="1">https://m3atp1zza.github.io/Install_OffSpring/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Magnetic (Nightwing Non-Debrid, Mad-Titan-Sports)</name>
+            <path pathversion="1">http://magnetic.website/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Mbebe (Sportowa, TV-Series)</name>
+            <path pathversion="1">https://mbebe.github.io/blomqvist/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>MisFitMods (Builds)</name>
+            <path pathversion="1">http://misfitmods.com/mmwiz/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>mrgsi (The TV App)</name>
+            <path pathversion="1">https://mrgsi.github.io/glive/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Narcacist (MagicDragon, Asgard, Shadow, Shazam, KodiVerse, Patriot, BlackWhite-Movies)</name>
+            <path pathversion="1">http://mylostsoulspace.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Nixgates (Seren RD)</name>
+            <path pathversion="1">https://nixgates.github.io/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Octopus (Alvin, tvOne111)</name>
+            <path pathversion="1">https://fuse99.com/octopus/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>OnePlay  (Thunder)</name>
+            <path pathversion="1">https://oneplayhd.com/oneplay/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Peno64 (EZ Maintenance)</name>
+            <path pathversion="1">https://peno64.github.io/repository.peno64/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>RepoIL (Wizdom)</name>
+            <path pathversion="1">http://repoil.club/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Rising-Tides</name>
+            <path pathversion="1">http://mullafabz.xyz/Repository/K19/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>SGK-Repo (MP3 Streams)</name>
+            <path pathversion="1">http://sgkodi.de/SGK-Repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>SlyGuy (Paramount, Hulu, ESPN PPV)</name>
+            <path pathversion="1">http://k.slyguy.xyz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Stream Army (Nemesis AIO, EnterTain Me)</name>
+            <path pathversion="1">http://streamarmy.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>The Crew (DaddyLive, Homelander, Ghost, MORIA, The_Coalition; Luffy)</name>
+            <path pathversion="1">https://team-crew.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>The WareHouse (ThePromise TheOath fork ,Dynasty)</name>
+            <path pathversion="1">https://warehousecrates.github.io/TheWareHouse/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>TWH Repo (Dynasty, Artemis Anime)</name>
+            <path pathversion="1">https://tinyurl.com/TWHrepo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Umbrella (RD)</name>
+            <path pathversion="1">https://umbrellaplug.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Unhinged Themes (Zoro RD, Absolution RD)</name>
+            <path pathversion="1">https://unhingedthemes.github.io</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Wave (Elementum Non-Debrid)</name>
+            <path pathversion="1">https://zeWave.github.io/Wave</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>WhereTheMonstersLive (Wolf-Pack)</name>
+            <path pathversion="1">https://www.midian.appboxes.co/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Tikipeter (Fen RD)</name>
+            <path pathversion="1">https://tikipeter.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Zaxxon709 (Builds)</name>
+            <path pathversion="1">https://zaxxon709.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>
