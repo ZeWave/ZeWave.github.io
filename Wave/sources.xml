@@ -41,6 +41,11 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
+            <name>Chains Repo (Zoro RD, Absolution RD)</name>
+            <path pathversion="1">https://unhingedthemes.github.io</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
             <name>cMaN (TvOne, Wizz RD, Builds)</name>
             <path pathversion="1">http://cmanbuilds.com/repo/</path>
             <allowsharing>true</allowsharing>
@@ -56,11 +61,6 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>Diamond (Free Live TV)</name>
-            <path pathversion="1">http://diamondbuild.xyz/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
             <name>Diggz Repo (Builds)</name>
             <path pathversion="1">https://diggz1.me/diggzrepo/</path>
             <allowsharing>true</allowsharing>
@@ -71,7 +71,7 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>Doomzday (Fetch)</name>
+            <name>DoomzDay (Fetch)</name>
             <path pathversion="1">https://doomzdayteam.github.io/doomzday/</path>
             <allowsharing>true</allowsharing>
         </source>
@@ -81,17 +81,12 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>Ezra RD Kodi 19 Addon</name>
-            <path pathversion="1">https://ezra-hubbard.github.io/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Ezzer-Mac (M.E.T.V RD)</name>
+            <name>Ezzer-Macs (M.E.T.V RD)</name>
             <path pathversion="1">https://ezzer-mac.com/repo/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>FDJ.HD</name>
+            <name>French DJ HD</name>
             <path pathversion="1">https://alivegr.net/master/</path>
             <allowsharing>true</allowsharing>
         </source>
@@ -106,23 +101,18 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>GigaRepo (All-Subs-Flash)</name>
-            <path pathversion="1">https://github.com/gigarepo/addons/</path>
+            <name>G-live (The TV App)</name>
+            <path pathversion="1">https://mrgsi.github.io/glive/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>Goldenfreddy0703 (Otaku)</name>
-            <path pathversion="1">https://goldenfreddy0703.github.io/repository.otaku/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Grindhouse (9 Lives RD)</name>
-            <path pathversion="1">http://grindhousekodi.us/repo</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Gsource (Crackle)</name>
+            <name>G-source (Crackle)</name>
             <path pathversion="1">https://mrgsi.github.io/gsource/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>GrindHouse (9 Lives RD)</name>
+            <path pathversion="1">http://grindhousekodi.us/repo</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -156,18 +146,8 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>Kodi Fitz Well (afFENity Fen clone/fork, Dradis RD)</name>
+            <name>Kodi FitzWell (afFENity Fen clone/fork, Dradis RD)</name>
             <path pathversion="1">https://kodifitzwell.github.io/repo/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Lanik-Python 3 (Kcleaner)</name>
-            <path pathversion="1">https://jewbmx.github.io/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>M3 at P1zza (INSOMNIA RD)</name>
-            <path pathversion="1">https://m3atp1zza.github.io/Install_OffSpring/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -186,11 +166,6 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>mrgsi (The TV App)</name>
-            <path pathversion="1">https://mrgsi.github.io/glive/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
             <name>Narcacist (MagicDragon, Asgard, Shadow, Shazam, KodiVerse, Patriot, BlackWhite-Movies)</name>
             <path pathversion="1">http://mylostsoulspace.co.uk/repo/</path>
             <allowsharing>true</allowsharing>
@@ -206,8 +181,18 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
+            <name>OffSpring (INSOMNIA RD)</name>
+            <path pathversion="1">https://m3atp1zza.github.io/Install_OffSpring/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
             <name>OnePlay  (Thunder)</name>
             <path pathversion="1">https://oneplayhd.com/oneplay/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Otaku (Anime)</name>
+            <path pathversion="1">https://goldenfreddy0703.github.io/repository.otaku/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -216,17 +201,12 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>RepoIL (Wizdom)</name>
-            <path pathversion="1">http://repoil.club/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
             <name>Rising-Tides</name>
             <path pathversion="1">http://mullafabz.xyz/Repository/K19/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>SGK-Repo (MP3 Streams)</name>
+            <name>SG-Kodi Repo (MP3 Streams)</name>
             <path pathversion="1">http://sgkodi.de/SGK-Repo/</path>
             <allowsharing>true</allowsharing>
         </source>
@@ -246,23 +226,8 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>The WareHouse (ThePromise TheOath fork ,Dynasty)</name>
-            <path pathversion="1">https://warehousecrates.github.io/TheWareHouse/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>TWH Repo (Dynasty, Artemis Anime)</name>
-            <path pathversion="1">https://tinyurl.com/TWHrepo</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
             <name>Umbrella (RD)</name>
             <path pathversion="1">https://umbrellaplug.github.io/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Unhinged Themes (Zoro RD, Absolution RD)</name>
-            <path pathversion="1">https://unhingedthemes.github.io</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -271,17 +236,12 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>WhereTheMonstersLive (Wolf-Pack)</name>
+            <name>Where the Monsters Live (Wolf-Pack)</name>
             <path pathversion="1">https://www.midian.appboxes.co/repo/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>Tikipeter (Fen RD)</name>
-            <path pathversion="1">https://tikipeter.github.io/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Zaxxon709 (Builds)</name>
+            <name>Zaxxon 709 (Builds)</name>
             <path pathversion="1">https://zaxxon709.github.io/repo/</path>
             <allowsharing>true</allowsharing>
         </source>
