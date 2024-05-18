@@ -21,7 +21,7 @@ Instructions for adding this repo & install build:
     <li>Go back to the "System Setting" menu and click: "File Manager".</li>    
     <li>On the left click "Add Source".</li>
     <li>Click where it says "NONE".</li>
-    <li>Type in the URL: <code>https://zeWave.github.io/Wave/</code>. <a href="https://zeWave.github.io/Wave/">https://zeWave.github.io/Wave/</a></li>
+    <li>Type in the URL: <a href="https://zeWave.github.io/Wave/">https://zeWave.github.io/Wave/</a></li>
     <li>In the next box down name it: <code>Wave</code> and click OK.</li>
     <li>Go back to the "System Setting" menu and click "Add-ons".</li>
     <li>In Addons, Click: "install from zip file".</li>
