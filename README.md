@@ -6,12 +6,19 @@ Instructions for adding this repo & install build:
 
 <p align="left">
   <ol type="1" start="1">
+    <li><code>Enable Unknown sources</code></li>
     <li>Launch Kodi.</li>
     <li>At the top left click: "System Settings" (Gear Icon).</li>
     <li>Click: "System".</li>
     <li>Hover over "Add-ons" menu item and turn on: "Unknown sources", if not already on.</li>
     <li>Go back to the "System Setting" menu and click: "File Manager".</li>    
     <li>On the left click "Add Source".</li>
+  </ol>
+</p>
+
+<p align="left">
+  <ul type="1" start="1">
+    <li>Launch Kodi.</li>  
     <li>Click where it says "NONE".</li>
     <li>Type in the URL: <code>https://zeWave.github.io/Wave/</code>. <a href="https://zeWave.github.io/Wave/">https://zeWave.github.io/Wave/</a></li>
     <li>In the next box down name it: <code>Wave</code> and click OK.</li>
