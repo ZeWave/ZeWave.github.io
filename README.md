@@ -22,7 +22,7 @@ Instructions for adding this repo:
     <li>Wait for the repository to download and popup at the top right and say: "The Wave repo" - "Add-on Installed".</li>
     <li>Click: "Install from repository"</li>
     <li>Click: "The Wave repo"</li>
-    <li>Go into the "Programs add-ons" section in the repo, and you'll find The Wave Wizard</li>
+    <li>Click: "Program add-ons" section in the repo, and you'll find The Wave Wizard</li>
   </ul>
 </p>
 
