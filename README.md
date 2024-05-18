@@ -24,6 +24,7 @@ Instructions for adding this repo:
     <li>Click: "The Wave repo".</li>
     <li>Click: "Program add-ons".</li>
     <li>Click: "The Wave Builds Gui Wizard".</li>
+    <li>Click: "Install".</li>
   </ul>
 </p>
 
