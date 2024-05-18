@@ -32,6 +32,7 @@ Instructions for adding this repo:
     <li>Scroll down to find the build that you want to install & select it.</li>
     <li>Choose: "Install" or "Fresh Install" & click your choice.</li>
     <li>Click: "Yes, Install".</li>
+    <li>Wait for the Kodi Build you chose to download.</li>
   </ol>
 </p>
 
