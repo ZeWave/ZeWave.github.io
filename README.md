@@ -29,6 +29,7 @@ Instructions for adding this repo:
     <li>When prompted, click: "Continue".</li>
     <li>When prompted, Click: "Build Menu".</li>
     <li>Select: "Builds".</li>
+    <li>Scroll down to find the build that you want to install.</li>
   </ul>
 </p>
 
