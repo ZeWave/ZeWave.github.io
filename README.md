@@ -1,7 +1,7 @@
 # The Wave Repo
 ## Current Version: 0.0.1
 
-Instructions for adding this repo:
+Instructions for adding this repo & install build:
 
 
 <p align="left">
