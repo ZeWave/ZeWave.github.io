@@ -25,6 +25,7 @@ Instructions for adding this repo:
     <li>Click: "Program add-ons".</li>
     <li>Click: "The Wave Builds Gui Wizard".</li>
     <li>Click: "Install".</li>
+    <li>Wait for the wizard to download and popup at the top right and say:"The Wave Builds Gui Wizard" - "Add-on Installed".</li>
   </ul>
 </p>
 
