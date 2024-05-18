@@ -1,5 +1,7 @@
-# The Wave Repo
+# The Wave Repo & Builds
 ## Current Version: 0.0.1
+
+In the builds you have Movie/TV-Shows addons, LiveTV addons, Sports addons. 
 
 Instructions for adding this repo & install build:
 
