@@ -49,6 +49,13 @@ Instructions for adding this repo & install build:
     <li>Click: "The Wave Builds Gui Wizard".</li>
     <li>Click: "Install".</li>
     <li>Wait for the wizard to download and popup at the top right and say: <BR>"The Wave Builds Gui Wizard" - "Add-on Installed".</li>
+  </ol>
+</p>
+
+
+<code>Insall a Build</code>
+<p align="left">
+  <ol type="1" start="1">    
     <li>When prompted, click: "Continue".</li>
     <li>When prompted, Click: "Build Menu".</li>
     <li>Select: "Builds".</li>
