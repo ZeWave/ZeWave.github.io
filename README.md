@@ -7,13 +7,13 @@ Instructions for adding this repo & install build:
 <code>Enable Unknown sources</code>
 <p align="left">
   <ol type="1" start="1">
-    <li></li>
     <li>Launch Kodi.</li>
     <li>At the top left click: "System Settings" (Gear Icon).</li>
     <li>Click: "System".</li>
     <li>Hover over "Add-ons" menu item and turn on: "Unknown sources", if not already on.</li>
   </ol>
 </p>
+
 
 <code>Add Kodi source for insall non official kodi repository</code>
 <p align="left">
