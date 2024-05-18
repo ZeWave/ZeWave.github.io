@@ -5,7 +5,7 @@ Instructions for adding this repo:
 
 
 <p align="left">
-  <ul type="1" start="2">
+  <ol type="1" start="2">
     <li>Launch Kodi.</li>
     <li>At the top left click: "System Settings" (Gear Icon).</li>
     <li>Click: "System".</li>
