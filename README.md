@@ -9,7 +9,7 @@ Instructions for adding this repo:
     <li>Launch Kodi.</li>
     <li>At the top left click: "System Settings" (Gear Icon).</li>
     <li>Click: "System".</li>
-    <li>Hover over Add-ons menu item and turn on: "Unknown sources", if not already on.</li>
+    <li>Hover over "Add-ons" menu item and turn on: "Unknown sources", if not already on.</li>
     <li>Go back to the "System Setting" menu and click: "File Manager"</li>    
     <li>On the left click "Add Source"</li>
     <li>Click where it says "NONE"</li>
