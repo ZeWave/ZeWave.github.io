@@ -7,8 +7,8 @@ Instructions for adding this repo:
 <p align="left">
   <ul>
     <li>Launch Kodi.</li>
-    <li>At the top left click the System Settings (Gear Icon)</li>
-    <li>Click File Manager</li>    
+    <li>At the top left click: "System Settings" (Gear Icon)</li>
+    <li>Click: "File Manager"</li>    
     <li>On the left click "Add Source"</li>
     <li>Click where it says "NONE"</li>
     <li>Type in the URL: <code>https://zeWave.github.io/Wave/</code> </li>
