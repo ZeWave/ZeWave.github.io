@@ -65,8 +65,9 @@ Instructions for adding this repo & install build:
     <li>Wait for the Kodi Build you chose to download.</li>
     <li>When prompted: "To save changes you now need to force close kodi", <BR>Press "OK" to force close kodi.</li>
     <li>Click: "OK" again.</li>
-    <li>Kodi will now close. Relaunch the Kodi application to see the build you chose installed.</li>
+    <li>Kodi will now close.</li>
   </ol>
 </p>
 
-## Enjoy!
+Relaunch the Kodi application to see the build you chose installed 
+& ## Enjoy!
