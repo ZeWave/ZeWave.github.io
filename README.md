@@ -69,5 +69,5 @@ Instructions for adding this repo & install build:
   </ol>
 </p>
 
-Relaunch the Kodi application to see the build you chose installed 
-& ## Enjoy!
+## Relaunch the Kodi application to see the build you chose installed 
+## Enjoy!
