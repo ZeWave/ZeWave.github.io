@@ -72,4 +72,7 @@ Instructions for adding this repo & install build:
 </p>
 
 Relaunch the Kodi application to see the build you chose installed.
+
+You can find other repositories in the URL: <BR><a href="https://zeWave.github.io/files/">https://zeWave.github.io/file/</a>
+
 ## Enjoy!
