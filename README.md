@@ -31,7 +31,7 @@ Instructions for adding this repo:
     <li>Select: "Builds".</li>
     <li>Scroll down to find the build that you want to install & select it.</li>
     <li>Select: "Builds".</li>    
-  </ul>
+  </ol>
 </p>
 
 ## Enjoy!
