@@ -23,6 +23,14 @@ Instructions for adding this repo & install build:
     <li>Click where it says "NONE".</li>
     <li>Type in the URL: <a href="https://zeWave.github.io/Wave/">https://zeWave.github.io/Wave/</a></li>
     <li>In the next box down name it: <code>Wave</code> and click OK.</li>
+  </ol>
+</p>
+
+
+<code>Insall The Wave repository</code>
+<p align="left">
+  <ol type="1" start="1">    
+    <li>Go back to the "System Setting" menu and click: "File Manager".</li>    
     <li>Go back to the "System Setting" menu and click "Add-ons".</li>
     <li>In Addons, Click: "install from zip file".</li>
     <li>Choose: "Wave" (or another name you assigned the media source in the previous step).</li>
