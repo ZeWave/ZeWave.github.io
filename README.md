@@ -17,7 +17,7 @@ Instructions for adding this repo:
     <li>In the next box down name it: <code>Wave</code> and click OK.</li>
     <li>Go back to the "System Setting" menu and click "Add-ons"</li>
     <li>In Addons, Click: "install from zip file".</li>
-    <li>Click: "Yes" on the Warning popup, and if not already be sure Unknown Sources is enabled.</li>
+    <li>Choose: "Wave" (or another name you assigned the media source in the previous step).</li>
     <li>When it asks for the location, select "The Wave Repo", and install <a href="https://zeWave.github.io/Wave/repository.zeWave-0.0.1.zip">repository.zeWave-0.0.1.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the "The Wave Repo"</li>
