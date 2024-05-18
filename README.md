@@ -14,7 +14,9 @@ Instructions for adding this repo:
     <li>Type in the URL: <code>https://zeWave.github.io/Wave/</code> </li>
     <li>In the next box down name it: <code>Wave</code> and click OK.</li>
     <li>Go back to the "System Setting" menu and click "Add-ons"</li>    
-    <li>In Addons, Click: "install from zip file".  When it asks for the location, select "The Wave Repo", and install <a href="https://zeWave.github.io/Wave/repository.zeWave-0.0.1.zip">repository.zeWave-0.0.1.zip</a>.</li>
+    <li>In Addons, Click: "install from zip file".</li>
+    <li>Click: "Yes" on the Warning popup, and if not already be sure Unknown Sources is enabled.</li>
+    <li>When it asks for the location, select "The Wave Repo", and install <a href="https://zeWave.github.io/Wave/repository.zeWave-0.0.1.zip">repository.zeWave-0.0.1.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the "The Wave Repo"</li>
     <li>Go into the "Programs add-ons" section in the repo, and you'll find The Wave Wizard</li>
