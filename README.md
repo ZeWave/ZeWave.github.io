@@ -15,7 +15,7 @@ Instructions for adding this repo & install build:
 </p>
 
 
-<code>Add Kodi source to insall non-official kodi repository</code>
+<code>Add Kodi source that will let us insall non-official kodi repository</code>
 <p align="left">
   <ol type="1" start="1">    
     <li>Go back to the "System Setting" menu and click: "File Manager".</li>    
