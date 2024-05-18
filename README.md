@@ -30,7 +30,8 @@ Instructions for adding this repo:
     <li>When prompted, Click: "Build Menu".</li>
     <li>Select: "Builds".</li>
     <li>Scroll down to find the build that you want to install & select it.</li>
-    <li>Select: "Builds".</li>    
+    <li>Choose: "Install" or "Fresh Install" & click your choice.</li>
+    <li>Click: "Yes, Install".</li>
   </ol>
 </p>
 
