@@ -33,6 +33,8 @@ Instructions for adding this repo:
     <li>Choose: "Install" or "Fresh Install" & click your choice.</li>
     <li>Click: "Yes, Install".</li>
     <li>Wait for the Kodi Build you chose to download.</li>
+    <li>When prompted "To save changes you now need to force close kodi, Press OK to force close kodi", <BR> click: "OK".</li>
+    <li>Click: "OK" again.</li>
   </ol>
 </p>
 
