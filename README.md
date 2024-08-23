@@ -76,3 +76,5 @@ Relaunch the Kodi application to see the build you chose installed.
 You can find other repositories in the URL: <BR><a href="https://zeWave.github.io/files/">https://zeWave.github.io/files/</a>
 
 ## Enjoy!
+#build #buils #telemedia
+#בילד #בילדים #טלמדיה
