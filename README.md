@@ -73,7 +73,11 @@ Instructions for adding this repo & install build:
 
 Relaunch the Kodi application to see the build you chose installed.
 
-You can find other repositories in the URL: <BR><a href="https://zeWave.github.io/files/">https://zeWave.github.io/files/</a>
+You can find other repositories in the URL: 
+</BR><a href="https://zeWave.github.io/repositories/">https://zeWave.github.io/repositories/</a>
+
+There is also a special page for Input-Stream Add-ons if you need to install it manualy: 
+</BR><a href="https://zeWave.github.io/inputstream/">https://zeWave.github.io/inputstream/</a>
 
 ## Enjoy!
 #build #buils #telemedia
