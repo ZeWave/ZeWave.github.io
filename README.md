@@ -1,5 +1,5 @@
 # The Wave Repo & Builds
-## Current Version: 0.0.2
+## Repository Current Version: 0.0.2
 
 In the builds you have Movie/TV-Shows addons, LiveTV addons, Sports addons. 
 
